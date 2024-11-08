@@ -23,6 +23,12 @@ SET time_zone = "+00:00";
 
 -- --------------------------------------------------------
 
+--------- CONSULTAS---------------
+-----REALIZAR LA CONSULTA DE LOS DATOS DE EMPLEADOS-----
+use empresa;
+SELECT * FROM empleados; 
+
+
 --
 -- Estructura de tabla para la tabla `cargo`
 --
